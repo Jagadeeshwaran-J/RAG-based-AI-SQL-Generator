@@ -1,0 +1,9 @@
+streamlit
+pyodbc
+pandas
+requests
+faiss-cpu
+sentence-transformers
+scikit-learn
+matplotlib
+openpyxl
