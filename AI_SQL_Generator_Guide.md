@@ -124,8 +124,8 @@ GEMINI_API_KEY = 'YOUR_API_KEY'
 In the Streamlit sidebar or default in app.py, provide:
 ```bash
 driver = "ODBC Driver 18 for SQL Server"
-server = "192.9.200.40"
-database = "eTHIC1171_AI"
+server = "your_ip_address"
+database = "your_db_name"
 username = "your_sql_user"
 password = "your_password"
 ```
