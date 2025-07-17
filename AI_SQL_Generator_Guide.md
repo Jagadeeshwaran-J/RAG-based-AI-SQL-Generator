@@ -92,8 +92,8 @@ This project is a powerful AI-driven tool that takes **natural language question
 ### 1. ✅ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/rag-sql-gen.git
-cd rag-sql-gen
+https://github.com/Jagadeeshwaran-J/RAG-based-AI-SQL-Generator.git
+cd RAG-based-AI-SQL-Generator
 ```
 
 ---
