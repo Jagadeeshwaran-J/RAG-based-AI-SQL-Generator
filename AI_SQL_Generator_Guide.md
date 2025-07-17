@@ -108,7 +108,7 @@ pip install -r requirements.txt
 
 ### 3. ✅ Configure Google Gemini API Key
 
-✅ Go to: https://makersuite.google.com/app
+✅ Go to: https://aistudio.google.com/apikey
 
 ✅ Click on Get API Key
 
