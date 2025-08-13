@@ -180,23 +180,3 @@ Open in browser at: http://localhost:8501
 | **Edit Mode**        | Manual correction of selected table(s)                 |
 
 ---
-
-### ❓ FAQ
-Q: Why convert schema to vectors?
-A: It allows semantic comparison between your question and schema using FAISS.
-
-Q: Can I use MySQL or PostgreSQL?
-A: Not yet. This version is tightly coupled with MS SQL Server but can be adapted.
-
----
-
-### 🤝 Contributing
-Pull requests and stars are welcome!
-Please open an issue for bug reports or new ideas.
-
----
-
-### 👨‍💻 Author
-Jagadeeshwaran J
-✨ Built using Streamlit + Gemini + FAISS ✨
----
